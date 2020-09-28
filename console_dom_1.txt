@@ -1,0 +1,9 @@
+/*
+    Bitte die Befehle über die Konsole eingeben 
+    Datei ist nicht mit dem HTML-Dokument verbunden
+*/
+
+
+/* Webseite Ergänzen um 2. p + ul/li */
+/* p-Tags mit id ergänzen / ersterText / zweiterText */
+
